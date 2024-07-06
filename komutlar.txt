@@ -1,0 +1,9 @@
+komutlar: 
+
+git add .
+git commit -m "mesaj"
+git push origin master
+
+(git remote add origin link.git)
+
+git branch
